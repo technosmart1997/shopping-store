@@ -1,0 +1,31 @@
+body
+{
+    background: #19b9e7; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#19b9e7,#4862a3); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#19b9e7,#4862a3); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#19b9e7,#4862a3); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#19b9e7,#4862a3); /* Standard syntax */
+}
+.nav-pills li a
+{
+    color:snow;
+    font-size: 16px;
+    font-weight:200;
+}
+.left,.right
+{
+    background-color:azure;
+    height:100%;
+}
+
+.nav-pills li a:hover
+{
+    color:black;
+    font-size: 16px;
+    font-weight:200;
+}
+.panel-heading
+{
+    height:60px;
+    padding:10px;
+}
